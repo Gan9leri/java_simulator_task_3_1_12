@@ -19,37 +19,11 @@
 Напишите код, который в зависимости от значения переменной role записывает соответствующий результат в переменную result.
 
 1 — admin
+
 2 — moderator
+
 3 — user
+
 default — guest
 
->Sample Input1:
->
->1
->Sample Output1:
->
->admin
->
->Sample Input2:
->
->2
 
->Sample Output2:
->
->moderator
-> 
-> >Sample Input3:
->
->3
-
->Sample Output3:
->
->user
-> 
-> > >Sample Input4:
->
->default
-
->Sample Output3:
->
->guest
