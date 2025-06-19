@@ -26,7 +26,6 @@ default — guest
 >Sample Input1:
 >
 >1
-
 >Sample Output1:
 >
 >admin
